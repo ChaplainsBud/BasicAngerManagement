@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I. Identity, Understand, and Heal Emotions for Mental Health: Awareness and Regulation
 
-Currently, two official plugins are available:
+We don't have a standard definition for Emotion. However:
+A. Subjective Experience
+B. Physiological Response
+C. Behavioral or Expressive Component 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+a. Evolutionary 
+b. Cognitive
+c. Social Constructivist
+
+1. Basic Emotions Theory, Paul Ekman. Identify feelings and branch off.
+2. Appraisal Theory, Richard Lazarus. Identify underlying appraisals.
+3. Constructivist Theory, Lisa Feldman Barrett. not innate, but constructed -- find what's constructing them
+4. Psychological Constructivist Theor, James A. Russel. core affect -- valence and arousal?
+5. Social Constructivist Theory. Culturally constructed. How does America lead to more anger? More confusion by cultural diversity... 
+6. Affective Neuroscience, Jaak Panksepp. Bridge between psychological theories and biological realities. 
